@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "chocolate dulce",
+    "description": "chocolate dulce a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "dulce",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "chocolate amargo",
+    "description": "chocolate amargo a base de cacao",
+    "price": 500,
+    "thumbnail": "Sin imagen",
+    "code": "amargo",
+    "stock": 25
+  }
+]
