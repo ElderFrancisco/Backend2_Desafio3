@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "chocolate blanco",
+    "description": "chocolate rojo a base de cacao",
+    "price": 200,
+    "thumbnail": "hrrpstasd://sdaw",
+    "code": "rojo",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "chocolate verde",
+    "description": "chocolate verde a base de cacao",
+    "price": 500,
+    "thumbnail": "hrrpstasd://sdaw",
+    "code": "verde",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "chocolate amargo",
+    "description": "chocolate amargo a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "amargo",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "title": "chocolate violeta",
+    "description": "chocolate violeta a base de cacao",
+    "price": 200,
+    "thumbnail": "hrrpstasd:sdaw",
+    "code": "violeta",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "title": "chocolate dulce",
+    "description": "chocolate dulce a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "dulce",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "chocolate blanco",
+    "description": "chocolate blanco a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "blanco",
+    "stock": 25
+  }
+]
