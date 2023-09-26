@@ -18,7 +18,7 @@
     "stock": 25
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "chocolate amargo",
     "description": "chocolate amargo a base de cacao",
     "price": 200,
@@ -27,7 +27,7 @@
     "stock": 25
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "chocolate violeta",
     "description": "chocolate violeta a base de cacao",
     "price": 200,
@@ -36,7 +36,7 @@
     "stock": 25
   },
   {
-    "id": 7,
+    "id": 5,
     "title": "chocolate dulce",
     "description": "chocolate dulce a base de cacao",
     "price": 200,
@@ -45,12 +45,57 @@
     "stock": 25
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "chocolate blanco",
     "description": "chocolate blanco a base de cacao",
     "price": 200,
     "thumbnail": "Sin imagen",
     "code": "blanco",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "title": "chocolate azul",
+    "description": "chocolate azul a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "azul",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "chocolate naranja",
+    "description": "chocolate naranja a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "naranja",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "title": "chocolate caramelo",
+    "description": "chocolate caramelo a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "caramelo",
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "title": "chocolate mixto",
+    "description": "chocolate mixto a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "mixto",
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "title": "chocolate perleado",
+    "description": "chocolate perleado a base de cacao",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "perleado",
     "stock": 25
   }
 ]
